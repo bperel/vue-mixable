@@ -1,5 +1,5 @@
 import { describe, test, expect } from 'vitest'
-import { nextTick } from 'vue'
+import { nextTick } from 'vue-demi'
 import { createComposableFromMixin } from '../createComposable'
 import { defineMixin } from '../defineMixin'
 import { wrapComposable } from './helpers'

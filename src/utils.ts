@@ -1,4 +1,7 @@
-import { callWithAsyncErrorHandling, type ComponentInternalInstance } from 'vue'
+import {
+  callWithAsyncErrorHandling,
+  type ComponentInternalInstance,
+} from 'vue-demi'
 
 export const isFunction = (val: unknown): val is Function =>
   typeof val === 'function'

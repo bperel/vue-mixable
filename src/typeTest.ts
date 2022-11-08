@@ -1,7 +1,7 @@
 /**
  * This file is not to be used anywhere, it's just to test the type inference
  */
-import { defineComponent } from 'vue'
+import { defineComponent } from 'vue-demi'
 import { createComposableFromMixin } from './createComposable'
 import { defineMixin } from './defineMixin'
 

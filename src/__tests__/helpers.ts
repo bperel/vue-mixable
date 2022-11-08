@@ -1,5 +1,5 @@
 import { mount, type MountingOptions } from '@vue/test-utils'
-import { defineComponent } from 'vue'
+import { defineComponent } from 'vue-demi'
 
 export const wrapComposable = <O extends MountingOptions<{}>>(
   composable: any,

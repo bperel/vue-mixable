@@ -36,6 +36,9 @@ export default defineConfig({
       },
     },
   },
+  optimizeDeps: {
+    exclude: ['vue-demi'],
+  },
   test: {
     setupFiles: ['./__tests__/setup.ts'],
   },

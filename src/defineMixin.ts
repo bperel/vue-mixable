@@ -5,7 +5,7 @@ import type {
   ComponentOptionsMixin,
   ComponentPropsOptions,
   EmitsOptions,
-} from 'vue'
+} from 'vue-demi'
 
 export /** #__PURE__*/ function defineMixin<
   PropsOptions extends Readonly<ComponentPropsOptions>,

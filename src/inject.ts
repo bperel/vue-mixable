@@ -11,7 +11,7 @@ import {
   type ComponentPublicInstance,
   type DebuggerEvent,
   type Ref,
-} from 'vue'
+} from 'vue-demi'
 
 export type ComponentInjectOptions = string[] | ObjectInjectOptions
 

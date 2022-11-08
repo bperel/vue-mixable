@@ -1,5 +1,5 @@
 import { describe, test, expect } from 'vitest'
-import type { ComponentPublicInstance } from 'vue'
+import type { ComponentPublicInstance } from 'vue-demi'
 import { createComposableFromMixin } from '../createComposable'
 import { defineMixin } from '../defineMixin'
 import { wrapComposable } from './helpers'

@@ -1,4 +1,4 @@
-import type { ComponentPublicInstance } from 'vue'
+import type { ComponentPublicInstance } from 'vue-demi'
 
 export /* #__PURE__ */ function createContextProxy(
   vm: ComponentPublicInstance,

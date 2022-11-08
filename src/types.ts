@@ -13,7 +13,7 @@ import type {
   WatchCallback,
   WatchOptions,
   WritableComputedOptions,
-} from 'vue'
+} from 'vue-demi'
 
 export type EmitsToProps<T extends EmitsOptions> = T extends string[]
   ? {

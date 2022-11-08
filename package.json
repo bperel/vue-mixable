@@ -81,11 +81,18 @@
     "vue-tsc": "^1.0.8"
   },
   "peerDependencies": {
-    "vue": "^3.2"
+    "@vue/composition-api": "^1.0.0-rc.1",
+    "vue": "^2.0.0 || >=3.0.0"
   },
   "peerDependenciesMeta": {
+    "@vue/composition-api": {
+      "optional": true
+    },
     "vue": {
       "optional": true
     }
+  },
+  "dependencies": {
+    "vue-demi": "^0.13.11"
   }
 }

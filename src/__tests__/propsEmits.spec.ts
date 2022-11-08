@@ -1,5 +1,5 @@
 import { describe, test, expect, vi } from 'vitest'
-import { defineComponent } from 'vue'
+import { defineComponent } from 'vue-demi'
 import { mount } from '@vue/test-utils'
 import { createComposableFromMixin } from '../createComposable'
 import { defineMixin } from '../defineMixin'
