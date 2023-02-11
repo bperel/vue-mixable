@@ -1,5 +1,5 @@
 {
-  "name": "@bperel/vue-mixable",
+  "name": "vue2-mixable",
   "description": "Turn Vue Mixins into Composables with a simple helper function",
   "version": "0.3.0",
   "license": "MIT",
