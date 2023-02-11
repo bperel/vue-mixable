@@ -1,5 +1,5 @@
 {
-  "name": "vue-mixable",
+  "name": "@bperel/vue-mixable",
   "description": "Turn Vue Mixins into Composables with a simple helper function",
   "version": "0.3.0",
   "license": "MIT",
@@ -12,11 +12,11 @@
     "compat"
   ],
   "author": {
-    "name": "Thorsten Lünborg",
-    "url": "https://github.com/linusborg"
+    "name": "Bruno Perel",
+    "url": "https://github.com/bperel"
   },
   "repository": {
-    "url": "https://github.com/LinusBorg/vue-mixable",
+    "url": "https://github.com/bperel/vue-mixable",
     "type": "git"
   },
   "main": "./dist/index.cjs",
