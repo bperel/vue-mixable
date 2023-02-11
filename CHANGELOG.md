@@ -1,5 +1,7 @@
 
 
+## [0.5.1](https://github.com/bperel/vue-mixable/compare/0.5.0...0.5.1) (2023-02-11)
+
 # 0.5.0 (2023-02-11)
 
 
